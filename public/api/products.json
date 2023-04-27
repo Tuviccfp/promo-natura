@@ -1,0 +1,73 @@
+{
+    "hidratantes": [
+        {
+            "id": "1",
+            "name": "Hidrante Natura 1",
+            "price": "39,90",
+            "img_url": "https://images.tcdn.com.br/img/img_prod/548128/nativa_spa_locao_cremosa_hidratante_corporal_o_boticario_128_1_abefb5680b0452641255767d897a5bc2.jpg",
+            "link": "",
+            "disponibilidade": "3"
+        },
+        {
+            "id": "2",
+            "name": "Hidrante Natura 2",
+            "price": "39,90",
+            "img_url": "https://larocheposay.vteximg.com.br/arquivos/ids/161490/7899026493094_1.jpg?v=637419181552230000?skuId=192",
+            "link": "encomenda"
+        }
+    ],
+    "sabonetes": [
+        {
+            "id": "1",
+            "name": "Sabonete Natura 1",
+            "price": "39,90",
+            "img_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQUheaNGkYEAsKi_fgwqhkIKa-W1-Pp3twn0GEUzObEW50mkm5PwSl5SMmrCqjwMGgDOF3wvenfu5JTTpJGPv7SB3EvIyssGIydwRV9WZDBEyvUgfwow75U7Q&usqp=CAE",
+            "link": "",
+            "disponibilidade": "3"
+        },
+        {
+            "id": "2",
+            "name": "Sabonete Natura 2",
+            "price": "39,90",
+            "img_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTjF8PUvxKjICEJq_K7y4P9Mwl4r45h79sVQcVeZeSqBGD0Sx0a_HFp8F3W80JtTvTMJK8JmgYgzOA6SP3Y5aoEEVNgQ0jp3-fh1GvaBYPo51m4dDjaKg49&usqp=CAE",
+            "link": "",
+            "disponibilidade": "encomenda"
+        }
+    ],
+    "cosmeticos": [
+        {
+            "id": "1",
+            "name": "Cosmetico Natura 1",
+            "price": "39,90",
+            "img_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTNys_tTPPwqGjSOOcowQ6XeQydwflD9nrGRfz8AkBkVplQifLeK3xe4WTCD0IFyMZ4b4lxxorBiChkdD2JzXyr1UQ8F4U0Ko6h3bSzlo5uofSj83la1RVdcP-pcPo_TP9GMfM&usqp=CAc",
+            "link": "",
+            "disponibilidade": "3"
+        },
+        {
+            "id": "2",
+            "name": "Cosmetico Natura 2",
+            "price": "39,90",
+            "img_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTrRyE49ju-6o6bV_KCaU0-AC_3zw10xrZQZ7lXYbA9GuD98VljNAWXNBEWpRW_Y7GaFxM3DFlty3yMXR5K1nMcYiQuN8P9E2P2hhxaardYog_RyvqoRZND30pE1q8UmQ0iZM4&usqp=CAc",
+            "link": "",
+            "disponibilidade": "3"
+        }
+    ],
+    "perfumes": [
+        {
+            "id": "1",
+            "name": "Perfume Natura 1",
+            "price": "39,90",
+            "img_url": "data:image/webp;base64,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",
+            "link": "",
+            "disponibilidade": "3"
+        },
+        {
+            "id": "1",
+            "name": "Perfume Natura 2",
+            "price": "39,90",
+            "img_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQAZK0oMVkkpvlI1QdBMf5CDfEgYQAQjKHcwPNkQrMFLqpRjMqIIv_ZHyjlyMIJk6TLe0jAaCp0maOjfXaN0eYx6JBs1PiSbbwOeC47i5KCrtivgHFaKmAa0aGM1i-x70MT9_c&usqp=CAc",
+            "link": "",
+            "disponibilidade": "3"
+        }
+    ]
+}
